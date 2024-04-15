@@ -1,0 +1,9 @@
+Expected Outputs:
+// outputDataset[0][0]
+0.0
+// outputDataset[1][0]
+1.0
+// outputDataset[2][0]
+1.0
+// outputDataset[3][0]
+0.0

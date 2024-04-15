@@ -1,0 +1,25 @@
+Inputs:
+// inputDataTable[0][0]
+0.0
+//inputDataTable[0][1]
+0.0
+// inputDataTable[0][2]
+0.0
+// inputDataTable[1][0]
+0.0
+// inputDataTable[1][1]
+1.0
+// inputDataTable[1][2]
+0.0
+// inputDataTable[2][0]
+1.0
+// inputDataTable[2][1]
+0.0
+// inputDataTable[2][2]
+0.0
+// inputDataTable[3][0]
+1.0
+// inputDataTable[3][1]
+1.0
+// inputDataTable[3][2]
+0.0
